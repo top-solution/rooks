@@ -1,5 +1,5 @@
 {
-  "name": "rooks",
+  "name": "@top-solution/rooks",
   "version": "7.14.1",
   "description": "Essential React custom hooks ⚓ to super charge your components!",
   "module": "dist/esm/index.js",
@@ -29,9 +29,10 @@
   "homepage": "https://rooks.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imbhargav5/rooks.git"
+    "url": "https://github.com/top-solution/rooks.git",
+    "directory": "packages/rooks"
   },
-  "bugs": "https://github.com/imbhargav5/rooks/issues",
+  "bugs": "https://github.com/top-solution/rooks/issues",
   "scripts": {
     "clean": "rimraf dist lib",
     "commit": "cz",
